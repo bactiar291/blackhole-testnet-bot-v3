@@ -2,7 +2,7 @@
 FULL FITUR
 # 🕳️ blackhole-testnet-bot-v3
 
-Automated bot for interacting with the [BlackHole Testnet](https://blackhole.fi/) on Fuji (43113).  
+Automated bot for interacting with the [BlackHole Testnet](https://testnet.blackhole.xyz/) on Fuji (43113).  
 Built using Python and Web3, this bot can perform multi-token swaps, liquidity actions, and staking operations automatically.
 
 ---
