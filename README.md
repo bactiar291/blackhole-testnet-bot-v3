@@ -1,4 +1,5 @@
 # blackhole-testnet-bot-v3
+# tidak mendukung fitur approve jadi kalian lakukan manual dahulu sebelum menggunakan bot ini 
 FULL FITUR
 # 🕳️ blackhole-testnet-bot-v3
 
